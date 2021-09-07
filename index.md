@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "My Portfolio"
 ---
 
-I'm glad you are here. I plan to talk about ...
+More About Me.
